@@ -1,4 +1,9 @@
-# ayako-kurihara
+# Hi 👋, I'm Ayako Kurihara
+
+未経験からWebエンジニアを目指して学習しています。  
+3ヶ月間のコーディングブートキャンプで、Next.js / TypeScript / React を中心に、Webアプリケーション開発を学びました。
+
+現在、Webエンジニアとして成長できる環境を探しています。
 
 ## Skills
 
